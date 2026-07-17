@@ -1,0 +1,12 @@
+.DS_Store
+._*
+.idea/
+.vscode/
+*.log
+*.tmp
+*.zip
+macos/release/
+macos/runtime/
+macos/client-delivery/
+docs/images/local-*
+TRAE Work Dream Skin Verification.png
